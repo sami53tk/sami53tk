@@ -46,6 +46,6 @@ Je suis étudiant en informatique passionné par les nouvelles technologies et l
 
 - **GitHub :** [github.com/Sami53tk](https://github.com/Sami53tk)
 - **LinkedIn :** [linkedin.com/sami-rochdi](https://www.linkedin.com/in/sami-rochdi/)
-- **Email :** [enzo.erdmann@gmail.com](mailto:rochdi53sami@gmail.com)
+- **Email :** [rochdi53sami@gmail.com](mailto:rochdi53sami@gmail.com)
 
 N'hésitez pas à me contacter pour discuter de collaborations, de projets passionnants ou simplement pour échanger sur les dernières avancées technologiques. Je suis toujours ouvert aux nouvelles opportunités et prêt à relever de nouveaux défis dans le monde de la programmation.
